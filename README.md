@@ -1,20 +1,20 @@
-<h1 align="center">Hello World 👋, I'm Hong Huynh</h1>
-<h3 align="center">Driven and Engaging Software Developer with a Personal Touch: Crafting Code with Care and Creativity</h3>
+<h1 align="center">Hello World 👋, I'm Thy Khuu</h1>
+<h3 align="center">Driven and Engaging Software Engineer | Software Developer with a Personal Touch: Crafting Code with Care and Creativity</h3>
 
 ## About me
-<div style="text-align: justify;">A recent graduate and adaptable software developer, I'm eager to leverage my proficiency in React and Flutter to contribute to a dynamic team. Skilled in mobile and web development with experience building applications using both frameworks, I'm a fast learner with a self-disciplined approach.  My interests extend beyond mobile and web development, with a strong curiosity in the potential of AI and cloud technologies. I'm constantly seeking opportunities to improve and collaborate on innovative projects that push the boundaries of technology.</div>
+<div style="text-align: justify;">A recent graduate and adaptable software engineering, I'm eager to leverage my proficiency in React to contribute to a dynamic team. Skilled in web development with experience building applications using both frameworks, I'm a fast learner with a self-disciplined approach.  My interests extend beyond web development, with a strong curiosity in the potential of AI and cloud technologies. I'm constantly seeking opportunities to improve and collaborate on innovative projects that push the boundaries of technology.</div>
 
 <br>
 
 - 📬 How to reach me
   ```
-  honghuynhkhon@gmail.com
+  bachthy94@gmail.com
   ```
 
-- 💪 Know about my experiences [<kbd>Click Here To View My CV</kbd>](https://drive.google.com/file/d/1EcUrn_n9BG1gkCIyYfjw7DpJZjcLPAm7/view?usp=sharing)
+- 💪 Know about my experiences [<kbd>Click Here To View My CV</kbd>](...)
 
 
-- 🤝 Connect with me <a href="https://linkedin.com/in/hong-khon-huynh" target="blank"><img  height="16"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" alt='Linkedin'></a>
+- 🤝 Connect with me <a href="[https://linkedin.com/in/hong-khon-huynh](https://www.linkedin.com/in/thykhuu2105/)" target="blank"><img  height="16"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" alt='Linkedin'></a>
 
 
 - ⚡ Tech-Badminton Enthusiast, Thriver, Cat Lover
