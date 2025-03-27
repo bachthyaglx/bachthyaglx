@@ -14,8 +14,6 @@ I enjoy solving complex problems, working in cross-functional teams, and continu
   ```
 
 - 💪 Know about my experiences
-  [<kbd>My CV Page 1</kbd>](![image](https://github.com/user-attachments/assets/a3a0f8c0-d7cd-4227-a8ff-5b33a42ad26f))
-  [<kbd>My CV Page 2</kbd>](![image](![image](https://github.com/user-attachments/assets/ee575a6a-fc67-4cdd-9b04-1a70cff481c5))
 
 
 - 🤝 Connect with me <a href="[https://www.linkedin.com/in/thykhuu2105/](https://www.linkedin.com/in/thykhuu2105/)" target="blank"><img  height="16"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" alt='Linkedin'></a>
