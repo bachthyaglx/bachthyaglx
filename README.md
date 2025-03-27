@@ -2,7 +2,9 @@
 <h3 align="center">Driven and Engaging Software Engineer | Software Developer with a Personal Touch: Crafting Code with Care and Creativity</h3>
 
 ## About me
-<div style="text-align: justify;">A recent graduate and adaptable software engineering, I'm eager to leverage my proficiency in React to contribute to a dynamic team. Skilled in web development with experience building applications using both frameworks, I'm a fast learner with a self-disciplined approach.  My interests extend beyond web development, with a strong curiosity in the potential of AI and cloud technologies. I'm constantly seeking opportunities to improve and collaborate on innovative projects that push the boundaries of technology.</div>
+<div style="text-align: justify;">A software engineer with over 5+ years of engineering experience, including 2+ years focused on full-stack web development. I have a background in building scalable, performance and accessibility applications using technologies such as React.js, TypeScript, Node.js, GraphQL, MongoDB, and PostgreSQL. Currently completing a Master's in Data Science centered around data engineering. My experience spans frontend and backend development, REST and GraphQL APIs, DevOps practices, and cloud deployment.
+
+I enjoy solving complex problems, working in cross-functional teams, and continuously exploring new technologies to improve software quality and user experience.</div>
 
 <br>
 
@@ -11,10 +13,12 @@
   bachthy94@gmail.com
   ```
 
-- 💪 Know about my experiences [<kbd>Click Here To View My CV</kbd>](...)
+- 💪 Know about my experiences
+  [<kbd>My CV Page 1</kbd>](![image](https://github.com/user-attachments/assets/a3a0f8c0-d7cd-4227-a8ff-5b33a42ad26f))
+  [<kbd>My CV Page 2</kbd>](![image](![image](https://github.com/user-attachments/assets/ee575a6a-fc67-4cdd-9b04-1a70cff481c5))
 
 
-- 🤝 Connect with me <a href="[https://linkedin.com/in/hong-khon-huynh](https://www.linkedin.com/in/thykhuu2105/)" target="blank"><img  height="16"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" alt='Linkedin'></a>
+- 🤝 Connect with me <a href="[https://www.linkedin.com/in/thykhuu2105/](https://www.linkedin.com/in/thykhuu2105/)" target="blank"><img  height="16"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" alt='Linkedin'></a>
 
 
 - ⚡ Tech-Badminton Enthusiast, Thriver, Cat Lover
@@ -30,7 +34,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
   <img width="12" />
-   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
   <img width="12" />  
