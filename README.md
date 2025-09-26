@@ -1,5 +1,5 @@
 ![logo](https://newsroom.arm.com/wp-content/uploads/2020/11/ai_render.jpg)
-<h1 align="center">Hi 👋, I'm Bach Thy</h1>
+<h1 align="center">Hi 👋, I'm Thy Khuu</h1>
 <div align="center">
   <p>Welcome to my professional profile! I am currently pursuing a Master’s degree in Data Science in Germany, following Bachelor’s studies in Electronics (Vietnam) and IT Engineering (Finland).</p>
 
