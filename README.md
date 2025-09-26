@@ -30,7 +30,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bachthyaglx&" alt="bachthyaglx" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bachthyaglx&show_icons=true&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bachthyaglx&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bachthyaglx&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bachthyaglx&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bachthyaglx&theme=github_dark)
+
 
 
 
