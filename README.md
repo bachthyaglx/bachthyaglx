@@ -1,74 +1,33 @@
-<h1 align="center">Hello World 👋, I'm Thy Khuu</h1>
-<h3 align="center">Driven and Engaging Software Engineer | Software Developer with a Personal Touch: Crafting Code with Care and Creativity</h3>
+![logo](https://newsroom.arm.com/wp-content/uploads/2020/11/ai_render.jpg)
+<h1 align="center">Hi 👋, I'm Bach Thy</h1>
+<div align="center">
+  <p>Welcome to my professional profile! I am currently pursuing a Master’s degree in Data Science in Germany, following Bachelor’s studies in Electronics (Vietnam) and IT Engineering (Finland).</p>
 
-## About me
-<div style="text-align: justify;">A software engineer with over 5+ years of engineering experience, including 2+ years focused on full-stack web development. I have a background in building scalable, performance and accessibility applications using technologies such as React.js, TypeScript, Node.js, GraphQL, MongoDB, and PostgreSQL. Currently completing a Master's in Data Science centered around data engineering. My experience spans frontend and backend development, REST and GraphQL APIs, DevOps practices, and cloud deployment.
+  <p>My academic and practical experiences span data, technology, and applied computer science. I am particularly interested in connecting data-driven methods with real-world applications, and in exploring how modern digital solutions can create value across industries.</p>
 
-I enjoy solving complex problems, working in cross-functional teams, and continuously exploring new technologies to improve software quality and user experience.</div>
+  <p>Through my studies and work experiences, I have built a strong foundation at the intersection of data, software, and applied research. I am eager to contribute to innovative projects and collaborate with professionals who share a passion for technology and its practical impact.</p>
+</div>
 
-<br>
-
-- 📬 How to reach me
-  ```
-  bachthy94@gmail.com
-  ```
-
-- 💪 Know about my experiences
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bachthyaglx&label=Profile%20views&color=0e75b6&style=flat" alt="bachthyaglx" /> </p>
 
 
-- 🤝 Connect with me <a href="[https://www.linkedin.com/in/thykhuu2105/](https://www.linkedin.com/in/thykhuu2105/)" target="blank"><img  height="16"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" alt='Linkedin'></a>
-
-
-- ⚡ Tech-Badminton Enthusiast, Thriver, Cat Lover
-<br>
-
-## 👨‍💻 Languages and Tools
-<p align="left"> 
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
- 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bachthyaglx/overlay/about-this-profile/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Thy Khuu LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://wa.me/(+49) 01788525644" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp Contact" height="30" width="40" /></a>
+<a href="mailto:bachthy94@gmail.com" target="_blank"><img align="center" src="https://i.pinimg.com/564x/61/28/d9/6128d9de487f77ae4370513f7d94f123.jpg" alt="Email" height="30" width="40" /></a>
 </p>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=behong1999&show_icons=true&locale=en&layout=compact&theme=dracula" alt="behong1999" />
-</p>
+
+
+<img align="right" alt="image" width = "300" height = "200" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bachthyaglx&show_icons=true&locale=en&layout=compact" alt="bachthyaglx" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bachthyaglx&show_icons=true&locale=en" alt="bachthyaglx" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bachthyaglx&" alt="bachthyaglx" /></p>
+
+
