@@ -30,8 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bachthyaglx&" alt="bachthyaglx" /></p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bachthyaglx&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bachthyaglx&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bachthyaglx&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-summary-card-output/github_dark/3-stats.svg)
+
 
 
