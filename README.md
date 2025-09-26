@@ -3,7 +3,7 @@
 <div align="center">
   <p>Welcome to my professional profile! I am currently pursuing a Master’s degree in Data Science in Germany, following Bachelor’s studies in Electronics (Vietnam) and IT Engineering (Finland).</p>
 
-  <p>My academic and practical experiences span data, technology, and applied computer science. I am particularly interested in connecting data-driven methods with real-world applications, and in exploring how modern digital solutions can create value across industries.</p>
+  <p>My academic and practical experiences span data, technology, and applied computer science, emphasizing software engineering. I enjoy connecting data-driven methods with real-world software applications and exploring how innovative digital solutions drive impact across industries.</p>
 
   <p>Through my studies and work experiences, I have built a strong foundation at the intersection of data, software, and applied research. I am eager to contribute to innovative projects and collaborate with professionals who share a passion for technology and its practical impact.</p>
 </div>
