@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bachthyaglx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Thy Khuu LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thykhuu2105/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Thy Khuu LinkedIn Profile" height="30" width="40" /></a>
 <a href="https://wa.me/+491788525644" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp Contact" height="30" width="40" /></a>
 <a href="mailto:bachthy94@gmail.com" target="_blank"><img align="center" src="https://i.pinimg.com/564x/61/28/d9/6128d9de487f77ae4370513f7d94f123.jpg" alt="Email" height="30" width="40" /></a>
 </p>
