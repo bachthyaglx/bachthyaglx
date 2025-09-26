@@ -30,7 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bachthyaglx&" alt="bachthyaglx" /></p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bachthyaglx&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bachthyaglx&show_icons=true&theme=dark)
 
 
 
