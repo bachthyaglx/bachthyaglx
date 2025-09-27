@@ -58,8 +58,8 @@
 <a href="https://golang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> </a>
 </p>
 
-<p></br><img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagleaves&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
+<p><img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagleaves&layout=compact&theme=dark&include_all_commits=true&count_private=true" /></p>
 
-<img align="right" width="54%" src="https://github-readme-stats.vercel.app/api?username=bachthyaglx&theme=dark&include_all_commits=true&count_private=true&show_icons=true" /></p>
+<p><img align="right" width="54%" src="https://github-readme-stats.vercel.app/api?username=bachthyaglx&theme=dark&include_all_commits=true&count_private=true&show_icons=true" /></p>
 
-<p></br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bachthyaglx&theme=dark" alt="bachthyaglx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bachthyaglx&theme=dark" alt="bachthyaglx" /></p>
