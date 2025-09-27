@@ -64,5 +64,4 @@
 
 <p><img align="right" width="54%" src="https://github-readme-stats.vercel.app/api?username=bachthyaglx&theme=dark&include_all_commits=true&count_private=true&show_icons=true" /></p>
 
-
-<p></br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bachthyaglx&theme=dark" alt="bachthyaglx" /></p>
+</br><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bachthyaglx&theme=dark" alt="bachthyaglx" /></p>
